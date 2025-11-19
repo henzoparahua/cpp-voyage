@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36705.20
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Print-Something", "Print-Something\Print-Something.vcxproj", "{1606471E-97FC-4693-A467-BDA244E2BACF}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "print-something", "print-something-function\Print-Something.vcxproj", "{1606471E-97FC-4693-A467-BDA244E2BACF}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Value-returning Functions", "Value-returning Functions\Value-returning Functions.vcxproj", "{D54B5729-031F-480A-945F-614075883F28}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "value-returning-functions", "value-returning-function\Value-returning Functions.vcxproj", "{D54B5729-031F-480A-945F-614075883F28}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
