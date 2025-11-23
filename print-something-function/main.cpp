@@ -1,4 +1,5 @@
-#include <iostream>;	// Include the iostream library for input and output
+#include <iostream>
+// Include the iostream library for input and output
 
 // Definition of user-defined function
 void printSomething() {
