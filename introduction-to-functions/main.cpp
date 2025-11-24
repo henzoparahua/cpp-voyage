@@ -14,7 +14,7 @@ int main()
 	   void nestedFunction() {
 		   std::cout << "This is a nested function." << std::endl;
 	   }
-	
+
 	*/
 
 	std::cout << "Start of the program" << std::endl;
